@@ -89,3 +89,13 @@ i {
     background:  rgba(244, 244, 244, 1);
     
 }
+.bg-gold{
+    background: linear-gradient(white, gold 90%);
+    width: fit-content;
+    position: absolute;
+    right: 12px;
+    transform: translateY(-20px);
+
+    
+    
+}
