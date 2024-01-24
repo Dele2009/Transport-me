@@ -69,3 +69,33 @@ i {
 .col-2:hover {
     background: #1b2349;
 }
+
+.section_btn{
+    padding: 10px 20px ;
+    border: none;
+   
+}
+.btn_active{
+    background: #ffbe34;
+    color: white;
+}
+.btn_more{
+    padding: 10px 20px ;
+    border: none;
+    color: white;
+    background: #091242;
+}
+.secondary{
+    background:  rgba(244, 244, 244, 1);
+    
+}
+.bg-gold{
+    background: linear-gradient(white, gold 90%);
+    width: fit-content;
+    position: absolute;
+    right: 12px;
+    transform: translateY(-20px);
+
+    
+    
+}
